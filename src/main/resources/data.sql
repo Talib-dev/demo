@@ -5,3 +5,7 @@ insert into aliens(aid,aname) values(104,'Talib3');
 insert into aliens(aid,aname) values(105,'Talib4');
 insert into aliens(aid,aname) values(106,'Talib5');
 insert into aliens(aid,aname) values(107,'Talib23');
+insert into aliens(aid,aname) values(108,'Talib3');
+insert into aliens(aid,aname) values(109,'Talib4');
+insert into aliens(aid,aname) values(110,'Talib5');
+insert into aliens(aid,aname) values(111,'Talib23');
